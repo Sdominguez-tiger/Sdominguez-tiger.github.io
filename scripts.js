@@ -558,7 +558,7 @@ var capasConfig = [
 // =============================
 
 var foto2010 = L.imageOverlay(
-    './data/Imagenes/Hoyorrico_2010.png',
+    '/data/Imagenes/Hoyorrico_2010.png',
     [
         [6.597718, -75.437810], //  CAMBIAR por tus valores
         [6.611834, -75.416758]  //  CAMBIAR por tus valores
@@ -566,7 +566,7 @@ var foto2010 = L.imageOverlay(
 );
 
 var foto2018 = L.imageOverlay(
-    './data/Imagenes/Hoyorrico_2018.png',
+    '/data/Imagenes/Hoyorrico_2018.png',
     [
         [6.597718, -75.437810], //  CAMBIAR por tus valores
         [6.611834, -75.416758]  //  CAMBIAR por tus valores
@@ -574,7 +574,7 @@ var foto2018 = L.imageOverlay(
 );
 
 var foto2025 = L.imageOverlay(
-    './data/Imagenes/Hoyorrico_2025.png',
+    '/data/Imagenes/Hoyorrico_2025.png',
     [
         [6.597718, -75.437810], //  CAMBIAR por tus valores
         [6.611834, -75.416758]  //  CAMBIAR por tus valores
